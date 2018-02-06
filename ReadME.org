@@ -1,7 +1,3 @@
-* About me
-  - Author: Duy Le-Dinh
-  - Link: [[juuisnova.com][My Website]]
-
 * Introduction
   - This is a backup version of my configuration, only for myself. 
   - However, you are welcome to use it if you like, but it may not suit you. 
@@ -9,3 +5,7 @@
 * Package-Installed
   - try: Allow user to try a package without actually install it
   - which-key: Toggle a new sub-window and suggest the keys after C-x
+  ...updating
+
+
+DUY LE-DINH

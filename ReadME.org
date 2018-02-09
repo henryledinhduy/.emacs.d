@@ -9,3 +9,7 @@
 * Package-Installed
   - try: Allow user to try a package without actually install it
   - which-key: Toggle a new sub-window and suggest the keys after C-x
+  - auto-complete: For auto-complete
+  - counsel: For swiper
+  - swiper: Alternative search and move
+  - org-bullet: For .org file
